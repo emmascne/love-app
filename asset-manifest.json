@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/love-app/static/css/main.b3baf21c.css",
+    "main.js": "/love-app/static/js/main.c7c4bae6.js",
+    "static/js/156.0f4c003a.chunk.js": "/love-app/static/js/156.0f4c003a.chunk.js",
+    "index.html": "/love-app/index.html",
+    "main.b3baf21c.css.map": "/love-app/static/css/main.b3baf21c.css.map",
+    "main.c7c4bae6.js.map": "/love-app/static/js/main.c7c4bae6.js.map",
+    "156.0f4c003a.chunk.js.map": "/love-app/static/js/156.0f4c003a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3baf21c.css",
+    "static/js/main.c7c4bae6.js"
+  ]
+}
